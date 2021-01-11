@@ -3072,7 +3072,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 5em 5em 1em 5em ;
+		
 		text-align: center;
 	}
 
@@ -3085,9 +3085,6 @@ input, select, textarea {
 			letter-spacing: -0.025em;
 		}
 
-		#header.alt {
-			padding: 7em 5em 4em 5em ;
-		}
 
 			#header.alt h1 {
 				font-size: 3.25em;
@@ -3130,9 +3127,6 @@ input, select, textarea {
 				padding: 4em 4em 0.1em 4em ;
 			}
 
-				#header.alt {
-					padding: 6em 4em 3em 4em ;
-				}
 
 		}
 
@@ -3142,9 +3136,6 @@ input, select, textarea {
 				padding: 4em 3em 0.1em 3em ;
 			}
 
-				#header.alt {
-					padding: 5em 3em 2em 3em ;
-				}
 
 		}
 
